@@ -101,10 +101,10 @@
 
 ## Mobile
 
- <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="flutter" src="https://img.shields.io/badge/flutter-276DC3?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
-   <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="ionic" src="https://img.shields.io/badge/ionic-276DC3?style=for-the-badge&logo=ionic&logoColor=white">
   </a>
     <img alt="android" src="https://img.shields.io/badge/android-239120?style=for-the-badge&logo=android&logoColor=white">
