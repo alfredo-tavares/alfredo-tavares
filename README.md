@@ -211,30 +211,9 @@
 </p> 
 
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/alfredo-tavares/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfredo-tavares&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredo-tavares&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alfredo-tavares" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<br/>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alfredo-tavares&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 -----
 Credits: [alfredo-tavares](https://github.com/alfredo-tavares)
 
-Last Edited on: 02/20/2024
+Last Edited on: 06/02/2025
