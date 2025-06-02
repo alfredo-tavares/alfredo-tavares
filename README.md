@@ -210,17 +210,6 @@
   
 </p> 
 
-## Projects
-
-<a href="https://github.com/alfredo-tavares/coracao_solidario_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredo-tavares&repo=coracao_solidario_app&theme=tokyonight" />
-</a>  
-
-<a href="https://github.com/alfredo-tavares/coracao_solidario_backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredo-tavares&repo=coracao_solidario_backend&theme=tokyonight" />
-
-</a> 
-
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
